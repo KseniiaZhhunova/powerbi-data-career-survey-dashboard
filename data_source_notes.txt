@@ -1,0 +1,10 @@
+# Data Source Attribution
+
+This dataset was provided as part of Alex The Analyst's Data Analyst Bootcamp on YouTube.
+It contains real survey data collected from individuals pursuing or working in data analytics roles.
+
+Original source and project video:
+https://www.youtube.com/watch?v=wQQR60KtnFY
+
+The dataset was made publicly available for learning and portfolio use.
+All analysis, visuals, and dashboard design in this project were created independently by me.
