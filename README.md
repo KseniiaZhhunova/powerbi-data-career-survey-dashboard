@@ -1,6 +1,6 @@
 # Power BI Dashboard – Data Professionals Survey
 
-## 🔍 Overview
+## Overview
 This dashboard was built in Power BI based on a real survey of 630 individuals either working in or aspiring to enter the field of data analytics. The dataset comes from Alex The Analyst’s bootcamp, where participants were encouraged to replicate and expand the final project for portfolio use.
 
 I followed the core structure of the bootcamp project, but extended the scope by cleaning and grouping additional data for the fields such as:
@@ -35,7 +35,7 @@ This project helped solidify my skills in Power BI, dashboard layout, DAX basics
 ---
 
 ## Dashboard Preview
-![Dashboard Preview](Screenshot_of_the_dashboard.png)
+![Dashboard Preview](dashboard_screenshot.png)
 
 ---
 
